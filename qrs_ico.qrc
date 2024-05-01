@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="iconcis">
+    <file>check_small_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>file_copy_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>g_translate_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>record_voice_over_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
