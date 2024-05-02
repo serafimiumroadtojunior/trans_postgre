@@ -155,7 +155,7 @@ QTableView::item:selected{
       </rect>
      </property>
     </widget>
-    <widget class="QPushButton" name="REANSLATE_BUTTON">
+    <widget class="QPushButton" name="TRANSLATE_BUTTON">
      <property name="geometry">
       <rect>
        <x>210</x>
