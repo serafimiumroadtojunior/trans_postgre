@@ -58,7 +58,7 @@ class TranslatorApp(QMainWindow):
                     self.translated_text = self.ui.TRANSLATE_TEXT.toPlainText()
 
                     self.view_data()
-                    self.inserts(text, self.translated_text)
+                    self.conn.inserts(text, self.translated_text)
 
 
 if __name__ == "__main__":
